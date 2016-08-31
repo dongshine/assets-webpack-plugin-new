@@ -1,0 +1,20 @@
+{
+    "home": {
+        "search": {
+            "libs": "asset/js/page/home/search-libs-40c718d0.js",
+            "common": "true",
+            "dialog": "true",
+            "search": "asset/js/page/home/search-e4db1895.js"
+        }
+    },
+    "common": "asset/js/page/user/common-c6870a4d.js",
+    "dialog": "asset/js/page/user/dialog-978f277c.js",
+    "user": {
+        "article": {
+            "libs": "asset/js/page/user/article-libs-f23767fe.js",
+            "common": "true",
+            "dialog": "true",
+            "article": "asset/js/page/user/article-43cb94f8.js"
+        }
+    }
+}

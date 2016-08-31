@@ -1,0 +1,1 @@
+webpackJsonp([3],[function(n,c,o){(function(n){"use strict";o.e(1,function(n){var c=o(3);console.log(c)});var c=common.GetQueryString("key");n("#btn").click(function(){return n.dialog({content:c})})}).call(c,o(1))}]);
